@@ -1,28 +1,29 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case study
+> analyze the banking data to find relations with respect to loan defaulting
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [General Info](#EDA)
+* [Technologies Used](#pandas,numpy,pyplot)
+* [Conclusions](#)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- Testing the learnings of python , numerical analytics
 - What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Find the trend for defaulters
+- Lending club case study dataset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 
+- Interesting to see that people who usually describe in detail why they need the loan have high probability of repayment
+- interest rate range between 5 and 24 and also we have outliers above 22.5 , we need to get rid of those if we plan to use any classification algorithm)
+
+- The number of defaulters is high in 60 months tenure than 36 months tenure
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,7 +43,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Dillan10] - feel free to contact me!
 
 
 <!-- Optional -->
